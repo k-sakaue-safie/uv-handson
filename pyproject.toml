@@ -1,0 +1,6 @@
+[project]
+name = "uv-handson"
+version = "0.1.0"
+description = "uv の依存性管理を手を動かして理解するハンズオン"
+requires-python = ">=3.13"
+dependencies = []
